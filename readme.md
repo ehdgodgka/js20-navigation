@@ -1,7 +1,7 @@
 # navigation
 <img src='navigation.gif'>
 
-[live-server](https://ehdgodgka.github.io/j20-navigation)
+[live-server](https://ehdgodgka.github.io/js20-navigation)
 
 ---
 - navigation animation using css animation and vanila JS 
